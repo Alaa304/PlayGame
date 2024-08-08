@@ -1,0 +1,14 @@
+E:\C#\alaa\PlayGame\PlayGame\bin\Debug\net8.0\PlayGame.exe
+E:\C#\alaa\PlayGame\PlayGame\bin\Debug\net8.0\PlayGame.deps.json
+E:\C#\alaa\PlayGame\PlayGame\bin\Debug\net8.0\PlayGame.runtimeconfig.json
+E:\C#\alaa\PlayGame\PlayGame\bin\Debug\net8.0\PlayGame.dll
+E:\C#\alaa\PlayGame\PlayGame\bin\Debug\net8.0\PlayGame.pdb
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\PlayGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\PlayGame.AssemblyInfoInputs.cache
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\PlayGame.AssemblyInfo.cs
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\PlayGame.csproj.CoreCompileInputs.cache
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\PlayGame.dll
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\refint\PlayGame.dll
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\PlayGame.pdb
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\PlayGame.genruntimeconfig.cache
+E:\C#\alaa\PlayGame\PlayGame\obj\Debug\net8.0\ref\PlayGame.dll
